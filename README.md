@@ -6,9 +6,9 @@ These games are quite deep and complex, so any information that could be provide
 In addition to being an informational app that provides data that is less obvious for the various implemented titles (tile manifests, train rosters, private companies, rules reference, etc.),
 I also intend to add an automated scoring feature that can simplify the oft time-consuming processing of scoring at the end of a game. 
 While similar computer applications like Lemmy's moderator and other excel-based tools exist to provide similar functionality, nothing
-exists that follows the clean simplicity of the iOS design language. My hope with this app is to eventually publish it for free on the App store. 
+exists that follows the clean simplicity of the iOS design language. My hope with this app is to eventually publish it for free on the App store. This project was bootstrapped with an AppleDeveloper swift tutorial install, and uses various CocoaPod dependencies to add new features like spreadsheets, image-mapping, etc.
 
-Below are the titles currently in-progress, with many more along the way:
+Below are the titles currently in-progress, with many more along the way: <br />
 1830: Railways and Robber Barons <br />
 1889: History of Shikoku Railways <br />
 1846: The Race for the Midwest <br />
