@@ -8,7 +8,7 @@ I also intend to add an automated scoring feature that can simplify the oft time
 While similar computer applications like Lemmy's moderator and other excel-based tools exist to provide similar functionality, nothing
 exists that follows the clean simplicity of the iOS design language. My hope with this app is to eventually publish it for free on the App store. This project was bootstrapped with an AppleDeveloper swift tutorial install, and uses various CocoaPod dependencies to add new features like spreadsheets, image-mapping, etc.
 
-Below are the titles currently in-progress, with many more along the way: <br />
+Below are the titles currently in-progress, with more on the way: <br />
 1830: Railways and Robber Barons <br />
 1889: History of Shikoku Railways <br />
 1846: The Race for the Midwest <br />
