@@ -1,0 +1,81 @@
+[
+    {
+        "name": "1830: Railways and Robber Barons",
+        "category": "Featured",
+        "city": "New York City",
+        "state": "Avalon Hill: 1986",
+        "id": 1001,
+        "park": "Francis Tresham",
+        "coordinates": {
+            "longitude": -74.00595024412516,
+            "latitude": 40.712742950000006
+        },
+        "imageName": "1830-cover"
+    },
+    {
+        "name": "1889: History of Shikoku Railways",
+        "category": "Featured",
+        "city": "Kotohira",
+        "state": "Deep Thought Games: 2004",
+        "id": 1002,
+        "park": "Yasutaka Ikeda",
+        "coordinates": {
+            "longitude": 133.8214522,
+            "latitude": 34.1914
+        },
+        "imageName": "1889-cover"
+    },
+    {
+        "name": "1846: The Race for the Midwest",
+        "category": "Featured",
+        "city": "Chicago",
+        "state": "GMT Games: 2005",
+        "id": 1003,
+        "park": "Tom Lehmann",
+        "coordinates": {
+            "longitude": -87.6244212,
+            "latitude": 41.8781
+        },
+        "imageName": "1846-cover"
+    },
+    {
+        "name": "1862: Railway Mania in the Eastern Counties",
+        "category": "Featured",
+        "city": "Harwich",
+        "state": "GMT Games: 2013",
+        "id": 1004,
+        "park": "Mike Hutton",
+        "coordinates": {
+            "longitude": 1.2898522,
+            "latitude": 51.9445801
+        },
+        "imageName": "1862-cover"
+    },
+    {
+        "name": "18Chesapeake",
+        "category": "Featured",
+        "city": "Baltimore",
+        "state": "All-Aboard Games: 2018",
+        "id": 1005,
+        "park": "Scott Petersen",
+        "coordinates": {
+            "longitude": -76.6122,
+            "latitude": 39.2904
+        },
+        "imageName": "18Ches-cover"
+    },
+    {
+        "name": "18MEX",
+        "category": "Featured",
+        "city": "Mexico City",
+        "state": "All-Aboard Games: 2005",
+        "id": 1006,
+        "park": "Mark Derrick",
+        "coordinates": {
+            "longitude": -99.1333416,
+            "latitude": 19.4326009
+        },
+        "imageName": "18MEX-cover"
+    },
+    
+]
