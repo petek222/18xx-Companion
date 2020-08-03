@@ -11,6 +11,7 @@ struct LandmarkDetail: View {
     var landmark: Landmark
 
     var body: some View {
+        
         VStack {
             MapView(coordinate: landmark.locationCoordinate)
                 .edgesIgnoringSafeArea(.top)
@@ -37,8 +38,10 @@ struct LandmarkDetail: View {
             Spacer()
         }
         .navigationBarTitle(Text(landmark.name), displayMode: .inline)
-        
-        
+    }
+    
+    var tileManifest : some View {
+        NavigationLink(destination:)
     }
 }
 

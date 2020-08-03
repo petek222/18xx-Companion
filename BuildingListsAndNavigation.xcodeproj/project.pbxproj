@@ -13,6 +13,10 @@
 		2593A99D24D4AEB70039CE23 /* 1889-cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2593A99724D4AEB70039CE23 /* 1889-cover.jpg */; };
 		2593A99E24D4AEB70039CE23 /* 1862-cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2593A99824D4AEB70039CE23 /* 1862-cover.jpg */; };
 		2593A99F24D4AEB70039CE23 /* 1830-cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2593A99924D4AEB70039CE23 /* 1830-cover.jpg */; };
+		25D6A44E24D8996B006EAC34 /* 1830-tile_manifest.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25D6A44D24D8996B006EAC34 /* 1830-tile_manifest.pdf */; };
+		25D6A45224D89FF1006EAC34 /* 1889-tile_manifest.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25D6A44F24D89FF1006EAC34 /* 1889-tile_manifest.pdf */; };
+		25D6A45324D89FF1006EAC34 /* 18Ches-tile_manifest.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25D6A45024D89FF1006EAC34 /* 18Ches-tile_manifest.pdf */; };
+		25D6A45424D89FF1006EAC34 /* 1846-tile_manifest.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25D6A45124D89FF1006EAC34 /* 1846-tile_manifest.pdf */; };
 		B7394866229F194000C47603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394865229F194000C47603 /* AppDelegate.swift */; };
 		B7394868229F194000C47603 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394867229F194000C47603 /* SceneDelegate.swift */; };
 		B739486A229F194000C47603 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394869229F194000C47603 /* LandmarkDetail.swift */; };
@@ -35,6 +39,10 @@
 		2593A99724D4AEB70039CE23 /* 1889-cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1889-cover.jpg"; sourceTree = "<group>"; };
 		2593A99824D4AEB70039CE23 /* 1862-cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1862-cover.jpg"; sourceTree = "<group>"; };
 		2593A99924D4AEB70039CE23 /* 1830-cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1830-cover.jpg"; sourceTree = "<group>"; };
+		25D6A44D24D8996B006EAC34 /* 1830-tile_manifest.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "1830-tile_manifest.pdf"; path = "../../../../../1830-tile_manifest.pdf"; sourceTree = "<group>"; };
+		25D6A44F24D89FF1006EAC34 /* 1889-tile_manifest.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "1889-tile_manifest.pdf"; path = "../../../../../1889-tile_manifest.pdf"; sourceTree = "<group>"; };
+		25D6A45024D89FF1006EAC34 /* 18Ches-tile_manifest.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "18Ches-tile_manifest.pdf"; path = "../../../../../18Ches-tile_manifest.pdf"; sourceTree = "<group>"; };
+		25D6A45124D89FF1006EAC34 /* 1846-tile_manifest.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "1846-tile_manifest.pdf"; path = "../../../../../1846-tile_manifest.pdf"; sourceTree = "<group>"; };
 		32C0591524A7452A1B7C1DE3 /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		B7394862229F194000C47603 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7394865229F194000C47603 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +82,13 @@
 			name = Configuration;
 			sourceTree = "<group>";
 		};
+		1393792139BC60D06BF63040 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		210CBA1CD0F2559FBC78D82D /* LICENSE */ = {
 			isa = PBXGroup;
 			children = (
@@ -81,13 +96,6 @@
 			);
 			name = LICENSE;
 			path = ../LICENSE;
-			sourceTree = "<group>";
-		};
-		AE8C741F82F711B7806CA46E /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Pods;
 			sourceTree = "<group>";
 		};
 		B7394859229F194000C47603 = {
@@ -98,7 +106,7 @@
 				B7394863229F194000C47603 /* Products */,
 				0BA6BB22EC06EFBEA60A948C /* Configuration */,
 				210CBA1CD0F2559FBC78D82D /* LICENSE */,
-				AE8C741F82F711B7806CA46E /* Pods */,
+				1393792139BC60D06BF63040 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -158,6 +166,10 @@
 		B7394883229F291A00C47603 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				25D6A45024D89FF1006EAC34 /* 18Ches-tile_manifest.pdf */,
+				25D6A45124D89FF1006EAC34 /* 1846-tile_manifest.pdf */,
+				25D6A44F24D89FF1006EAC34 /* 1889-tile_manifest.pdf */,
+				25D6A44D24D8996B006EAC34 /* 1830-tile_manifest.pdf */,
 				2593A99424D4AEB60039CE23 /* 18Ches-cover.jpg */,
 				2593A99524D4AEB60039CE23 /* 18MEX-cover.jpg */,
 				2593A99924D4AEB70039CE23 /* 1830-cover.jpg */,
@@ -228,12 +240,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7394872229F194200C47603 /* LaunchScreen.storyboard in Resources */,
+				25D6A45224D89FF1006EAC34 /* 1889-tile_manifest.pdf in Resources */,
+				25D6A44E24D8996B006EAC34 /* 1830-tile_manifest.pdf in Resources */,
 				2593A99E24D4AEB70039CE23 /* 1862-cover.jpg in Resources */,
+				25D6A45424D89FF1006EAC34 /* 1846-tile_manifest.pdf in Resources */,
 				B739486F229F194200C47603 /* Preview Assets.xcassets in Resources */,
 				2593A99F24D4AEB70039CE23 /* 1830-cover.jpg in Resources */,
 				2593A99C24D4AEB70039CE23 /* 1846-cover.jpg in Resources */,
 				2593A99D24D4AEB70039CE23 /* 1889-cover.jpg in Resources */,
 				B739486C229F194200C47603 /* Assets.xcassets in Resources */,
+				25D6A45324D89FF1006EAC34 /* 18Ches-tile_manifest.pdf in Resources */,
 				B739489B229F292F00C47603 /* landmarkData.json in Resources */,
 				2593A99A24D4AEB70039CE23 /* 18Ches-cover.jpg in Resources */,
 				2593A99B24D4AEB70039CE23 /* 18MEX-cover.jpg in Resources */,
